@@ -1,1 +1,1 @@
-# https://doru-quotegenerator.netlify.app/
+https://doru-quotegenerator.netlify.app/
